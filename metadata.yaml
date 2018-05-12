@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36047'
     url: http://www.gutenberg.org/2009/agents/36047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32789#Cam-es-e-a-Fisionomia-Espiritual-da-P-tria
 gutenberg_issued: '2010-06-13'
 gutenberg_type: Text
 identifiers:
